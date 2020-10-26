@@ -1,6 +1,8 @@
-Suade Labs Python Challenge
+# Suade Labs Python Challenge
+
 This is a Python & Flask project representing a simple analytics component for an imaginary  e-shop with an api endpoint
 which for a given date  will return a report that will contain the following metrics:
+
 - The total number of items sold on that day.
 - The total number of customers that made an order that day.
 - The total amount of discount given that day.
